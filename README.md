@@ -1,0 +1,3 @@
+# proyectoestadistica
+análisis estadístico de 10 Bases de datos
+El código de análisis está escrito en Python en el documento Proyecto Final de Estadística... 
