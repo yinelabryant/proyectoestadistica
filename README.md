@@ -5,7 +5,6 @@ Presentación: PRESENTACIÓN.pdf
 
 Código:
 1. CÓDIGO.ipynb
-2. BD8.ipynb
 
 Documentación y análisis: 
 
